@@ -1,6 +1,6 @@
 # Indian Elections Affidavit Archival System
 
-[![Generic badge](https://img.shields.io/badge/View_Data_on-Flat_Github-GREEN.svg)](https://flatgithub.com/srikanthlogic/AffidavitManagement?filename=data%2Faffidavits_accepted_all.json)
+[![Generic badge](https://img.shields.io/badge/View_Data_on-Flat_Github-GREEN.svg)](https://flatgithub.com/kaarana/AffidavitManagement?filename=data%2Faffidavits_accepted_all.json)
 [![Generic badge](https://img.shields.io/badge/Archived_Affidavits-Internet_Archive-GREEN.svg)](https://web.archive.org/web/*/suvidha.eci.gov.in/*)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
