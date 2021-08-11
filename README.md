@@ -13,7 +13,7 @@
 [Election Commission of India](https://eci.gov.in/) runs a Candidate & Counting Management System - [*Suvidha*](https://suvidha.eci.gov.in/) to manage candidate nominations and affidavits
 for all legislative assembly and parliamentary elections conducted in India since 2019. As part of it, they publish candidate affidavit details publicly at https://affidavit.eci.gov.in/ linking the nomination / affidavits filed at Suvidha.
 
-This project has collected metadata of 46850 affidavits of accepted nominations that have been filed for 18 elections since 2019, since Suvidha was put in place and archived them on [Internet Archive](https://web.archive.org) .
+This project has collected metadata of 46850 affidavits of accepted nominations that have been filed for 18 elections since 2019, when Suvidha was put in place and archived them on [Internet Archive](https://web.archive.org) .
 
 # Links
 * [Suvidha Manual](https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf) - [Archive](https://web.archive.org/web/20210811210321/https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf)
