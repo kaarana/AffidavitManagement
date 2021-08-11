@@ -6,8 +6,10 @@
 
 
 [![Generic badge](https://img.shields.io/badge/Project-ElectionTech-lightgrey.svg)](https://hasgeek.com/kaarana/electiontech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kaarana_?style=social)](https://twitter.com/kaarana_)
 [![YouTube](https://img.shields.io/badge/ElectionTech-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PLnKey4ddtgY5X2EZjAH9Law_Pa8s5UEIB)
+[![Medium](https://img.shields.io/badge/Medium-Kaarana-black)](https://medium.com/karana)
+[![Telegram](https://img.shields.io/badge/Telegram-Kaarana-blue)](https://t.me/Kaarana)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kaarana_?style=social)](https://twitter.com/kaarana_)
 
 
 [Election Commission of India](https://eci.gov.in/) runs a Candidate & Counting Management System - [*Suvidha*](https://suvidha.eci.gov.in/) to manage candidate nominations and affidavits
