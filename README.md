@@ -18,7 +18,17 @@ for all legislative assembly and parliamentary elections conducted in India sinc
 This project has collected metadata of 46850 affidavits of accepted nominations that have been filed for 18 elections since 2019, when Suvidha was put in place and archived them on [Internet Archive](https://web.archive.org) .
 
 ## Links
-* [Suvidha Manual](https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf) - [Archive](https://web.archive.org/web/20210811210321/https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf)
+
+### Suvidha
+* [ECI Guideline](https://cdn.s3waas.gov.in/s302e74f10e0327ad868d138f2b4fdd6f0/uploads/2020/10/2020100216.pdf) - [Archive](https://web.archive.org/web/20210812090602/https://cdn.s3waas.gov.in/s302e74f10e0327ad868d138f2b4fdd6f0/uploads/2020/10/2020100216.pdf)
+* [Suvidha Manual](https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf) - [Archive](https://web.archive.org/web/20210811210321/https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/10/2020101935.pdf) 
+* [Suvidha Candidate Android App](https://play.google.com/store/apps/details?id=suvidha.eci.gov.in.candidateapp)
+
+### ENCORE Permissions Platform
+* [ENCORE](https://encore.eci.gov.in) 
+* [Overview](https://eci.gov.in/img/2020/Election%20Permission%20Application.pdf) - [Archive](https://web.archive.org/web/20210812091919/https://eci.gov.in/img/2020/Election%20Permission%20Application.pdf) - [Presentation](https://charaideo.gov.in/sites/default/files/swf_utility_folder/departments/charaideo_epr_amtron_in_oid_2/portlet/level_2/encore_permission.pdf) - [Archive](https://web.archive.org/web/20210812091349/https://charaideo.gov.in/sites/default/files/swf_utility_folder/departments/charaideo_epr_amtron_in_oid_2/portlet/level_2/encore_permission.pdf)
+* [ENCORE Manual](https://cdn.s3waas.gov.in/s3e2ef524fbf3d9fe611d5a8e90fefdc9c/uploads/2021/02/2021022651.pdf) - [Archive](https://web.archive.org/web/20210812091423/https://cdn.s3waas.gov.in/s3e2ef524fbf3d9fe611d5a8e90fefdc9c/uploads/2021/02/2021022651.pdf)
+
 * [Affidavit Archive](http://affidavitarchive.nic.in/) - For elections prior to 2019. This is broken, but still contains affidavits from elections dating back to 2004.
 
 ## Notes on data
