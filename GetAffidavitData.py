@@ -69,7 +69,7 @@ def getAffidavitLink(candidate):
     s = BeautifulSoup(requests.get(candidate['link']).text, 'lxml')
     candidate['affidavit_upload_date'] = s.find(
         'div', attrs={'class': 'aside-af'}).find_all('span')[-1].text.strip()
-    candidate['affidavit_upload_count'] = s.find(
+    candidate['affidavit_download_count'] = s.find(
         'span', attrs={'id': 'updateCount'}).text
     candidate['nomination_file_date'] = s.find('div', attrs={'class': 'col-md-5 col-sm-6 mt-5 party'}).find_all(
         'div', attrs={'class': 'row'})[6].find_all('div', attrs={'class': 'col-sm-6'})[1].text.strip()
