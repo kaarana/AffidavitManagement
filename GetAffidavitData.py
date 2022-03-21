@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from lxml import html
 
 BASE_URL = 'https://affidavit.eci.gov.in/CandidateCustomFilter?electionType={{season_code}}&election={{election_code}}&page={{page_num}}'
-
+MIN_SEASON = 11
 
 def write_json(new_data, filename):
     with open(filename, 'w') as file:
@@ -97,8 +97,11 @@ def getCandidateProfiles():
     with open("elections.json") as json_file:
         data = json.load(json_file)
     for season in data:
-        for election in season['elections']:
-            getCandidatesInElection(season['code'], election)
+        if int(season['season']) >= MIN_SEASON:
+            for election in season['elections']:
+                getCandidatesInElection(season['code'], election)
+        else:
+            logging.info("Skipping season " + season['season'] + " as it is below " + str(MIN_SEASON))
 
 
 def getAffidavitDetails():

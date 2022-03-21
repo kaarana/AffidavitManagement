@@ -1,5 +1,40 @@
 [
     {
+        "code": "14-AC-BYE-4-25",
+        "name": "Election-March-Apr-2022",
+        "season": "14",
+        "elections": [
+            "14-AC-BYE-4-25"
+        ]
+    },
+    {
+        "code": "13-AC-GENERAL-3-23",
+        "name": "Election-Jan-March-2022",
+        "season": "13",
+        "elections": [
+            "13-AC-GENERAL-3-23",
+            "13-AC-BYE-4-24"
+        ]
+    },
+    {
+        "code": "12-AC-BYE-4-21",
+        "name": "Election-Oct-Nov-2021",
+        "season": "12",
+        "elections": [
+            "12-AC-BYE-4-21",
+            "12-PC-BYE-2-22"
+        ]
+    },
+    {
+        "code": "11-AC-BYE-4-19",
+        "name": "Election-Sep-Oct-2021",
+        "season": "11",
+        "elections": [
+            "11-AC-BYE-4-19",
+            "11-AC-GENERAL-3-20"
+        ]
+    },
+    {
         "code": "10-AC-GENERAL-3-16",
         "name": "Election-Feb-May-2021",
         "season": "10",
