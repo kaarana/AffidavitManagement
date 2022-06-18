@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from lxml import html
 
 BASE_URL = 'https://affidavit.eci.gov.in/CandidateCustomFilter?electionType={{season_code}}&election={{election_code}}&page={{page_num}}'
-MIN_SEASON = 11
+MIN_SEASON = 15
 
 def write_json(new_data, filename):
     with open(filename, 'w') as file:
