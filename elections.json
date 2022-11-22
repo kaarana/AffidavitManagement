@@ -1,5 +1,22 @@
 [
     {
+        "code": "16-AC-BYE-4-28",
+        "name": "Election-June-2022",
+        "season": "16",
+        "elections": [
+            "16-AC-BYE-4-28",
+            "16-PC-BYE-2-29"
+        ]
+    },
+    {
+        "code": "15-AC-BYE-4-27",
+        "name": "Election-May-June-2022",
+        "season": "15",
+        "elections": [
+            "15-AC-BYE-4-27"
+        ]
+    },
+    {
         "code": "14-AC-BYE-4-25",
         "name": "Election-March-Apr-2022",
         "season": "14",
